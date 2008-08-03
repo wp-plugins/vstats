@@ -25,4 +25,4 @@ contact me: info@javalog.de
 
 == Screenshots ==
 
-1. Plugin Screenshot, `screenshot.gif`
+screenshot.gif
