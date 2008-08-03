@@ -34,6 +34,7 @@ please visit my installation post: http://blog.javalog.de/?p=12
 contact me: info@javalog.de
 
 == Screenshots ==
-1. Screenshot of VStats
+1. VStats
+2. VStats inside the Sidebar of Wordpress
 
 
