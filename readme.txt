@@ -12,6 +12,16 @@ VStats Wordpress Plugin
 
 == Description ==
 VStats Wordpress Plugin.  WassUp Plugin required! http://www.wpwp.org
+The VStats plugin expands the WassUp plugin. 
+
+Today visits
+Pageviews
+Last 24 h visits
+Day before
+Last week
+
+will be shown inside the sidebar of the wordpress theme
+
 
 == Installation ==
 
