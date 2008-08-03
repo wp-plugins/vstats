@@ -25,4 +25,7 @@ contact me: info@javalog.de
 
 == Screenshots ==
 
-screenshot.gif
+1. This screen shot description corresponds to screenshot-1.(png|jpg|jpeg|gif). Note that the screenshot is taken from
+the directory of the stable readme.txt, so in this case, `screenshot.gif` (or jpg, jpeg, gif)
+2. This is the second screen shot
+
