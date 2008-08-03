@@ -1,7 +1,7 @@
-=== Plugin Name ===
+=== VSTATS ===
 Contributors: jinfo
 Donate link: http://blog.javalog.de
-Tags: plugin, vstats, counter, visits, wassup
+Tags: vstats, counter, visits, wassup
 Requires at least: 2.3.3
 Tested up to: 2.3.3
 Stable tag: trunk
